@@ -1,0 +1,12 @@
+### The Missing Semester of Your CS Education
+- Lecture1 : [Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)  
+- Lecture2 : [Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)  
+- Lecture3 : [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)  
+- Lecture4 : [Data Wrangling](https://missing.csail.mit.edu/2020/data-wrangling/)  
+- Lecture5 : [Command-line Environment](https://missing.csail.mit.edu/2020/command-line/)  
+- Lecture6 : [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)  
+- Lecture7 : [Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/)  
+- Lecture8 : [Metaprogramming](https://missing.csail.mit.edu/2020/metaprogramming/)  
+- Lecture9 : [Security and Cryptography](https://missing.csail.mit.edu/2020/security/)  
+- Lecture10 : [Potpourri](https://missing.csail.mit.edu/2020/potpourri/)  
+- Lecture11 : [Q\&A](https://missing.csail.mit.edu/2020/qa/)  
