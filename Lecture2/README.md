@@ -7,6 +7,7 @@
 `ls -lt`  
 以彩色文本显示输出结果  
 `ls --color=auto`  
+参考：https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/
 #### 2
 
 
